@@ -18,6 +18,8 @@
   METHOD : POST
       
       http://localhost:9090/register
+  Script
+
       {
           "username": "exemple",
           "email": "exemple@gmail.com",
